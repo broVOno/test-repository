@@ -15,5 +15,6 @@ code(lol);
 while(isAlive);
 function code(){
 alert('Helo invoker');
+console.log("Sanstraik")
 }
 ```
